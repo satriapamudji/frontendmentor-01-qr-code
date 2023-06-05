@@ -24,4 +24,4 @@ For this project, I was looking to make use of my knowledge that I learnt and ap
 ### Links
 
 - Live Site URL: [QR Code Component](https://frontendmentor-01-qr-code.vercel.app/)
-- View my other challenges here: [Main Repository](https://frontendmentor-00-main.vercel.app/)
+- View my other challenges here: [Challenges Page](https://frontendmentor-00-main.vercel.app/)
